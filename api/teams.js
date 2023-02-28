@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const baseUrl = "http://localhost:3000/api"
+const baseUrl = "https://next-hf6pd0vwz-jasur-code.vercel.app/api"
 
 
 const getTeams = async () => {
